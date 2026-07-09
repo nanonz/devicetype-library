@@ -2,7 +2,3 @@
 manufacturer: Samsung
 model: ARFA7680S5xnFTRI
 slug: samsung-arfa7680s5xnftri
-profile: Hard disk
-attributes:
-  disk_type: SSD
-  disk_capacity: 40GB

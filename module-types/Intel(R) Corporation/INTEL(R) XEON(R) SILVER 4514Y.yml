@@ -1,0 +1,8 @@
+---
+manufacturer: Intel(R) Corporation
+model: INTEL(R) XEON(R) SILVER 4514Y
+profile: CPU
+attribute_data:
+  architecture: x86-64
+  cores: 16
+  speed: 3.40

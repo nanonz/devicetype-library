@@ -1,4 +1,6 @@
 ---
 manufacturer: Hynix
 model: PROC 1 DIMM 1
-profile: memory
+profile: Memory
+attribute_data:
+  class: DDR4

@@ -1,0 +1,7 @@
+---
+manufacturer: Hynix Semiconductor
+model: DIMM A1
+profile: Memory
+attribute_data:
+  class: DDR4
+  size: 16
